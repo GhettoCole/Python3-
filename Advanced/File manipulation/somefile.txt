@@ -1,0 +1,28 @@
+I love programming so much, It makes me feel like I HAVE SUPERPOWERS T_T, silly ain't it?
+
+I want to be a professional programmer by the age of 24 at latest and from then on I want to continue my journey of computers futhermore and be a black hat hacker.
+
+
+My journal of my must-knows includes the following:
+
+1 - Programming
+				- Python
+				- C++
+				- C
+				- C#
+				- Java
+				- JavaScript
+				- Perl
+				- PHP
+
+2 - Computer networks
+				- HTTP
+				- TCP/IP
+				- SMTP
+				- Nmap
+				- And much more
+
+3 - Pentesting
+4 - Forensics
+5 - Linux and UNIX
+
